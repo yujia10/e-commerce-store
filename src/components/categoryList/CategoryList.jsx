@@ -1,5 +1,6 @@
 import React from 'react'
 import Category from '../category/Category'
+import './categoryList.scss'
 
 function CategoryList({categories}) {
   return (
